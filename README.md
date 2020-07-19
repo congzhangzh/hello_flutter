@@ -17,8 +17,10 @@ samples, guidance on mobile development, and a full API reference.
 
 # for windows
 flutter create --platforms windows .
+
 flutter run -d windows
 
 # for linux
 flutter create --platforms linux .
+
 flutter run -d linux
